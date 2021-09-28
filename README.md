@@ -48,8 +48,3 @@ mainly combinatory tricky tests :)
 	note: the second main contains a "fake_malloc()" function (always returns
 	NULL) which you can substitute to the real "malloc" and check the behavior
 	of the GNL project in case of insuficsient allocatable memory.
-
-6/	the scripts have been set to a 777 rights for you to enjoy life at its
-	maximum.
-
-with love, charmstr@student.42.fr
