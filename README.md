@@ -1,5 +1,5 @@
 # GNL_lover_new_version
-test for (NEW) the get_next_line project at school 42. (cursus42, november 2019)
+test for the (NEW) get_next_line project at school 42. (cursus42, september 2021)
 mainly combinatory tricky tests :)
 
 
