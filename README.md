@@ -39,12 +39,3 @@ mainly combinatory tricky tests :)
 	And redirect the output in user_output file.
 	Then do a diff with the original file.
 	ex: $>diff -u user_output test_file3
-
-7/	The "manual_correction_sandbox" folder is there for ease of correction...
-	but not used.
-	You can copy the get_next_line* files there and have a main ready for you.
-	it takes as input argument the name of a file to display on stdout.
-
-	note: the second main contains a "fake_malloc()" function (always returns
-	NULL) which you can substitute to the real "malloc" and check the behavior
-	of the GNL project in case of insuficsient allocatable memory.
